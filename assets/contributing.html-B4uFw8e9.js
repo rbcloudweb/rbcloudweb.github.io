@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as n}from"./app-KOGKIvaa.js";const r={};function c(o,i){return e(),n("div")}const l=t(r,[["render",c],["__file","contributing.html.vue"]]),s=JSON.parse('{"path":"/contributing.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"contributing.md"}');export{l as comp,s as data};
