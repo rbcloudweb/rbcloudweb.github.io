@@ -1,1 +1,0 @@
-import{_ as r,r as s,o as e,f as o,w as p,g as a}from"./app-j7k68XZ3.js";const c={name:"App"};function _(f,i,l,u,m,d){const t=s("router-view");return e(),o(t,null,{default:p(({Component:n})=>[(e(),o(a(n)))]),_:1})}const w=r(c,[["render",_],["__file","App.vue"]]);export{w as default};
