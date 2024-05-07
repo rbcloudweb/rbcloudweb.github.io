@@ -1,4 +1,4 @@
-import{t as no}from"./tweenManager-D1g6n6E9.js";import{_ as io,m as ro,q as so,o as jr,c as Jr,a as ao,x as oo}from"./app-BWbGM2V8.js";import"./index-ZORhgBxb.js";/**
+import{t as no}from"./tweenManager-D1g6n6E9.js";import{_ as io,m as ro,q as so,o as jr,c as Jr,b as ao,x as oo}from"./app-DCpkpd5w.js";import"./index-ZORhgBxb.js";/**
  * @license
  * Copyright 2010-2023 Three.js Authors
  * SPDX-License-Identifier: MIT
