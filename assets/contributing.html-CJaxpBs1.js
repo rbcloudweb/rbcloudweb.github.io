@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as n}from"./app-BaKtFpRD.js";const c={};function r(i,o){return e(),n("div")}const s=t(c,[["render",r],["__file","contributing.html.vue"]]),_=JSON.parse('{"path":"/contributing.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1708580109000},"filePathRelative":"contributing.md"}');export{s as comp,_ as data};
